@@ -165,7 +165,7 @@ Our AI technology is supported across all platforms, delivering a unified experi
 | [<img src="https://smart.sista.ai/images/browsers/Chrome.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=chrome) | [<img src="https://smart.sista.ai/images/browsers/Edge.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=edge) | [<img src="https://smart.sista.ai/images/browsers/Brave.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=brave) | [<img src="https://smart.sista.ai/images/browsers/Opera.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=opera) | [<img src="https://smart.sista.ai/images/browsers/Vivaldi.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=vivaldi) | [<img src="https://smart.sista.ai/images/browsers/Arc.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=arc) | [<img src="https://smart.sista.ai/images/browsers/Samsung.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=samsung-internet) |
 | [<img src="https://smart.sista.ai/images/browsers/Yandex.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=yandex-browser) | [<img src="https://smart.sista.ai/images/integrations/sdks/windows.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=windows) | [<img src="https://smart.sista.ai/images/integrations/sdks/mac.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=mac) | [<img src="https://smart.sista.ai/images/integrations/sdks/linux.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=linux) | [<img src="https://smart.sista.ai/images/integrations/sdks/arduino.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=arduino) | [<img src="https://smart.sista.ai/images/integrations/sdks/CAPACITOR.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=capacitor) | [<img src="https://smart.sista.ai/images/integrations/sdks/REACT.svg" width="100px">](https://docs.sista.ai/learn/installation?platform=react) |
 
-## Universal Website Support
+## Universal Plugin
 
 Sista AI works on **any website** regardless of platform or technology. Simply inject our JavaScript tag as an HTML script, and it automatically provides AI assistance on your site. Available via CDN: `https://cdn.sista.ai/sdk/latest/smart-agent.min.js`. Visit the official [Docs](https://docs.sista.ai/learn/installation?platform=javascript) for integration details.
 
@@ -174,19 +174,7 @@ Sista AI works on **any website** regardless of platform or technology. Simply i
 
 
 
-<br/>
-<br/>
 
-<p align="center">
- <a href="https://www.sista.ai/support.html?to=discord">
-    <img src="./assets/button_community.png" alt="Sista AI Community"/>
- </a>
-</p>
-
-
-
-<br/>
-<br/>
 
 
 
@@ -202,7 +190,19 @@ Need help with Sista AI? We're here to assist you!
 - **📚 Documentation:** Visit our [comprehensive docs](https://docs.sista.ai)
 - **💬 Join Our Discord Community:**
 
+<br/>
+<br/>
 
+<p align="center">
+ <a href="https://www.sista.ai/support.html?to=discord">
+    <img src="./assets/button_community.png" alt="Sista AI Community"/>
+ </a>
+</p>
+
+
+
+<br/>
+<br/>
 
 ## Contact
 
