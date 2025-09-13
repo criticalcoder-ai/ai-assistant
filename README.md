@@ -202,7 +202,6 @@ Need help with Sista AI? We're here to assist you!
 
 
 <br/>
-<br/>
 
 ## Contact
 
