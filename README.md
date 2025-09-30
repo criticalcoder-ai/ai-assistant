@@ -2,7 +2,6 @@
 [![Sista AI Social Preview](https://smart.sista.ai/images/art/sista-ai-voicebot-large.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_social_preview&utm_campaign=react_sdk_readme)
 
 
-
 <br/>
 
 [![npm version](https://img.shields.io/npm/v/@sista/ai-assistant-react.svg)](https://www.npmjs.com/package/@sista/ai-assistant-react)
